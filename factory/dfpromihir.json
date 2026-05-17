@@ -1,0 +1,15 @@
+{
+	"name": "dfpromihir",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9cb87111-afa0-403c-8e52-366e43d7ab4d",
+		"tenantId": "94907aed-5763-4016-9cac-544a1dcce428"
+	}
+}
